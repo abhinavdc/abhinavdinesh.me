@@ -211,7 +211,7 @@ nav .navbar li:not(.unique) a:hover::after {
 
 header {
     padding: 20px 0 50px;
-    background: url(../img/banner.jpg) no-repeat;
+    background: url(../img/image.jpg) no-repeat;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
